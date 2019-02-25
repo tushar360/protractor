@@ -1,0 +1,4 @@
+"opt":["SUBTRACTION","MULTIPLICATION","DIVISION","MODULO","ADDITION"],
+"first":["5","15","64","3",5],
+"second":["3","13","8","2",25],
+"expected":["2","195","8","1","30"]
